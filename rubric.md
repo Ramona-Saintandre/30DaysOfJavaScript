@@ -57,3 +57,16 @@ Use repeat() method to print 30 Days Of JavaScript 2 times
 Love is the best thing in this world. Some found their love and some are still looking for their love. Count the number of word love in this sentence.
 Calculate the total annual income of the person by extract the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 Clean the following text(hint, use replace and regular express)
+
+
+-----------------------------------------
+DAY 1: Javascript Projects - Background Image Slider Javascript Projects - Background Image Slider
+DAY 2: Modern Image Gallery With ES6 Vanilla JavaScript Modern Image Gallery With ES6 Vanilla JavaScript
+DAY 3: Stripe Follow Along Dropdown Navigation - #JavaScript30 26/30 Stripe Follow Along Dropdown Navigation - #JavaScript30 26/30
+DAY 4: Vanilla JavaScript Slide In on Scroll - #JavaScript30 13/30 Vanilla JavaScript Slide In on Scroll - #JavaScript30 13/30
+DAY 5: Create a Split Landing Page With HTML, CSS & JS Create a Split Landing Page With HTML, CSS & JS
+DAY 6: Vanilla JS Countdown Timer - #JavaScript30 29/30 Vanilla JS Countdown Timer - #JavaScript30 29/30
+DAY 7: how to build a simple calculator using javascript how to build a simple calculator using javascript
+DAY 8: Javascript Tutorial: Make a quiz Javascript Tutorial: Make a quiz
+DAY 9: Learn JavaScript By Building A Bookmarker Application https://www.youtube.com/watch?v=DIVfDZZeGxM&t=133s
+DAY 10: Snake Game Using Javascript Snake Game Using JavaScript
