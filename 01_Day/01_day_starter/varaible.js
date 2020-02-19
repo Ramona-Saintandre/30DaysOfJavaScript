@@ -15,3 +15,30 @@ const PI = 3.14 // geometrical constant
 let name = 'Ramona', //name of a person
   job = 'HelpDesk Cordinator ',
   live = 'Wyoming, MI '
+
+  // declare varibles and assign string,boolean, undefined, null, number  
+  let myCar = "Traverse";//string
+  let age = 49;//number
+  let learning = true;//boolean
+  let undef = undefined;//undefined 
+  let nul = null;//null
+
+  // declare four variables without assigning values
+
+  let kids;
+  let husband;
+  let kiss;
+  let hugs;
+  let snow;
+  let go;
+
+  // define four variables with values  
+
+  let kids = 3;
+  let husband = "David";
+  let kiss = true;
+  let hugs = false;
+  let snow = undefined;
+  let go = null;
+
+  // 
