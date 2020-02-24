@@ -34,3 +34,4 @@
 // Love is the best thing in this world. Some found their love and some are still looking for their love. Count the number of word love in this sentence.
 // Calculate the total annual income of the person by extract the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 // Clean the following text(hint, use replace and regular express)
+
