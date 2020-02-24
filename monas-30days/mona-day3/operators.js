@@ -1,14 +1,28 @@
-/ Exercises: Level 1
+// Exercises: Level 1
 // Declare firstName, lastName, country, city, age, isMarried, year variable and assign value to it and use the typeof operator to check different data types.
+
+
 
 // Check if type of '10' is equal to 10
 
+
 // Check if parseInt('9.8') is equal to 10
+
+
 
 // Boolean value is either true or false.
 
+
+
 // Write three JavaScript statement which provide truthy value.
+
+
+
+
 // Write three JavaScript statement which provide falsy value.
+
+
+
 // Figure out the result of the following comparison expression first without using console.log(). After you decide the result confirm it using console.log()
 
 // 4 > 3
@@ -22,7 +36,16 @@
 // 4 != '4'
 // 4 == '4'
 // 4 === '4'
+
+
 // Find the length of python and jargon and make a falsy comparison statement.
+
+
+
+
+
+
+
 // Figure out the result of the following expressions first without using console.log(). After you decide the result confirm it by using console.log()
 
 // 4 > 3 && 10 < 12
